@@ -1,0 +1,17 @@
+{
+  "id": "MCU_Cypress/CY7C68013A-56LTX:CY7C68013A-56LTX",
+  "name": "CY7C68013A-56LTX",
+  "library": "MCU_Cypress",
+  "file": "MCU_Cypress.kicad_symdir/CY7C68013A-56LTX.kicad_sym",
+  "description": "CYPRESS FX2LP USB Microcontroller, 48MHz 8051, 16KB RAM, USB 2.0, I2C, QFN-56",
+  "datasheet": "http://www.cypress.com/file/138911/download",
+  "keywords": "FX2LP 8-bit USB MCU",
+  "footprint": "Package_DFN_QFN:QFN-56-1EP_8x8mm_P0.5mm_EP4.5x5.2mm_ThermalVias_TopTented",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-cypress@master/parts/CY7C68013A-56LTX/",
+  "part_path": "parts/CY7C68013A-56LTX",
+  "symbol_file": "parts/CY7C68013A-56LTX/CY7C68013A-56LTX.kicad_sym",
+  "source_library": "MCU_Cypress.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:55.157Z"
+}

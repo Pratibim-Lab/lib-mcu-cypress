@@ -1,0 +1,17 @@
+{
+  "id": "MCU_Cypress/CYBL10x6x-56LQxx:CYBL10x6x-56LQxx",
+  "name": "CYBL10x6x-56LQxx",
+  "library": "MCU_Cypress",
+  "file": "MCU_Cypress.kicad_symdir/CYBL10x6x-56LQxx.kicad_sym",
+  "description": "Programmable Radio-on-Chip With Bluetooth Low Energy, 48-MHz ARM® Cortex®-M0 , 56-QFN",
+  "datasheet": "http://www.cypress.com/documentation/datasheets/cybl10x6x-family-datasheet-programmable-radio-chip-bluetooth-low-energy",
+  "keywords": "CYPRESS PROC BLE CY8BL ARM CORTEX M0 BLUETOOTH QFN",
+  "footprint": "Package_DFN_QFN:QFN-56-1EP_7x7mm_P0.4mm_EP5.6x5.6mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-cypress@master/parts/CYBL10x6x-56LQxx/",
+  "part_path": "parts/CYBL10x6x-56LQxx",
+  "symbol_file": "parts/CYBL10x6x-56LQxx/CYBL10x6x-56LQxx.kicad_sym",
+  "source_library": "MCU_Cypress.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:55.517Z"
+}

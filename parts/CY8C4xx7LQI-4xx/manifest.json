@@ -1,0 +1,17 @@
+{
+  "id": "MCU_Cypress/CY8C4xx7LQI-4xx:CY8C4xx7LQI-4xx",
+  "name": "CY8C4xx7LQI-4xx",
+  "library": "MCU_Cypress",
+  "file": "MCU_Cypress.kicad_symdir/CY8C4xx7LQI-4xx.kicad_sym",
+  "description": "Programmable System-on-Chip With Bluetooth Low Energy, 24/48-MHz ARM® Cortex®-M0 , 56-QFN",
+  "datasheet": "http://www.cypress.com/file/137466/download",
+  "keywords": "CYPRESS PSOC BLE CY8 CY8C4 ARM CORTEX M0 BLUETOOTH QFN",
+  "footprint": "Package_DFN_QFN:QFN-56-1EP_7x7mm_P0.4mm_EP5.6x5.6mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-cypress@master/parts/CY8C4xx7LQI-4xx/",
+  "part_path": "parts/CY8C4xx7LQI-4xx",
+  "symbol_file": "parts/CY8C4xx7LQI-4xx/CY8C4xx7LQI-4xx.kicad_sym",
+  "source_library": "MCU_Cypress.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:55.288Z"
+}

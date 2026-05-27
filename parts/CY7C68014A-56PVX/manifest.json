@@ -1,0 +1,17 @@
+{
+  "id": "MCU_Cypress/CY7C68014A-56PVX:CY7C68014A-56PVX",
+  "name": "CY7C68014A-56PVX",
+  "library": "MCU_Cypress",
+  "file": "MCU_Cypress.kicad_symdir/CY7C68014A-56PVX.kicad_sym",
+  "description": "CYPRESS FX2LP USB Microcontroller, 48MHz 8051, 16KB RAM, USB 2.0, I2C, SSOP-56",
+  "datasheet": "http://www.cypress.com/file/138911/download",
+  "keywords": "FX2LP 8-bit USB MCU",
+  "footprint": "Package_SO:SSOP-56_7.5x18.5mm_P0.635mm",
+  "extends": "CY7C68013A-56PVX",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-cypress@master/parts/CY7C68014A-56PVX/",
+  "part_path": "parts/CY7C68014A-56PVX",
+  "symbol_file": "parts/CY7C68014A-56PVX/CY7C68014A-56PVX.kicad_sym",
+  "source_library": "MCU_Cypress.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:55.188Z"
+}

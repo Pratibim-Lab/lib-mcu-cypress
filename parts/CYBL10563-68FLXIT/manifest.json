@@ -1,0 +1,17 @@
+{
+  "id": "MCU_Cypress/CYBL10563-68FLXIT:CYBL10563-68FLXIT",
+  "name": "CYBL10563-68FLXIT",
+  "library": "MCU_Cypress",
+  "file": "MCU_Cypress.kicad_symdir/CYBL10563-68FLXIT.kicad_sym",
+  "description": "68-WLCSP, 48-MHz ARM® Cortex®-M0, 128KB Flash, 16kB SRAM, BLE 4.1, CAP-SENSE W/ GESTURES, 2 SCB, 4 TCPWM, I2S, 1 PWM , LCD, 1MSPS 12-BIT SAR",
+  "datasheet": "http://www.cypress.com/documentation/datasheets/cybl10x6x-family-datasheet-programmable-radio-chip-bluetooth-low-energy",
+  "keywords": "CYPRESS PROC BLE CY8BL ARM CORTEX M0 BLUETOOTH WLCSP",
+  "footprint": "",
+  "extends": "CYBL10563-68FNXIT",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-cypress@master/parts/CYBL10563-68FLXIT/",
+  "part_path": "parts/CYBL10563-68FLXIT",
+  "symbol_file": "parts/CYBL10563-68FLXIT/CYBL10563-68FLXIT.kicad_sym",
+  "source_library": "MCU_Cypress.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:55.492Z"
+}

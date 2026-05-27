@@ -1,0 +1,17 @@
+{
+  "id": "MCU_Cypress/CYBL10161-56LQXI:CYBL10161-56LQXI",
+  "name": "CYBL10161-56LQXI",
+  "library": "MCU_Cypress",
+  "file": "MCU_Cypress.kicad_symdir/CYBL10161-56LQXI.kicad_sym",
+  "description": "56-QFN, 48-MHz ARM® Cortex®-M0, 128KB Flash, 16kB SRAM, BLE 4.1, NO CAP-SENSE, 1 SCB, 2 TCPWM, NO I2S, NO PWM , NO LCD, 1MSPS 12-BIT SAR",
+  "datasheet": "http://www.cypress.com/documentation/datasheets/cybl10x6x-family-datasheet-programmable-radio-chip-bluetooth-low-energy",
+  "keywords": "CYPRESS PROC BLE CY8BL ARM CORTEX M0 BLUETOOTH QFN",
+  "footprint": "Package_DFN_QFN:QFN-56-1EP_7x7mm_P0.4mm_EP5.6x5.6mm",
+  "extends": "CYBL10x6x-56LQxx",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-cypress@master/parts/CYBL10161-56LQXI/",
+  "part_path": "parts/CYBL10161-56LQXI",
+  "symbol_file": "parts/CYBL10161-56LQXI/CYBL10161-56LQXI.kicad_sym",
+  "source_library": "MCU_Cypress.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:55.292Z"
+}
